@@ -141,6 +141,7 @@ CONFIG_PACKAGE_subconverter=y
 ### THEME ###
 CONFIG_PACKAGE_luci-theme-argon=y
 CONFIG_PACKAGE_luci-theme-bootstrap=y
+CONFIG_PACKAGE_luci-theme-edge=y
 
 ### RESET ###
 CONFIG_PACKAGE_kmod-gpio-button-hotplug=y
